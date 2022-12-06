@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $BernardMuthee"
+echo "hello $root"
